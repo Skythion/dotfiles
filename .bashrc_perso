@@ -1,0 +1,2 @@
+alias ce42='gcc -g -Wall -Wextra -Werror *.c && ./a.out'
+alias ce42='gcc -g -Wall -Wextra -Werror *.c && ./a.out'
